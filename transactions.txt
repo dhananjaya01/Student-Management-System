@@ -1,0 +1,3 @@
+groceries,25.50,2023-04-15
+entertainment,10.75,2023-04-14
+utilities,80.00,2023-04-01
